@@ -1,4 +1,4 @@
-package resolveta_tabuada;
+package com.dio.tabuada;
 
 import javax.swing.JOptionPane;
 
