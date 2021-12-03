@@ -36,7 +36,7 @@ public class Exercicio03ValidaInformacoes {
             System.out.println("O valor digitado é invalido, digite novamente: ");
             salario = scan.nextDouble();
         }
-        //ata a quebra de linha dos caracteres
+        //trata a quebra de linha dos caracteres
         scan.nextLine();
 
         //verifica se o caracter digitado é válido
